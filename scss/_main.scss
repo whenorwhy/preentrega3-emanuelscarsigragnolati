@@ -1,0 +1,186 @@
+main {
+    .carrusel {
+        margin-bottom: 5%;
+        margin-top: 10%;
+        width: 100%;
+        height: 700px;
+
+        .fotosCarrusel {
+            height: 700px;
+        }
+
+    }
+}
+
+div {
+    .fotosProductos {
+        width: 100%;
+        height: 30rem;
+    }
+}
+
+
+
+
+
+.texto {
+    font-size: 25px;
+}
+
+
+
+li {
+    list-style: none;
+}
+
+form {
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+        padding-top: 5%;
+        padding-bottom: 10%;
+   
+
+
+    .formulario {
+        padding-top: 20px;
+
+        #nombre {
+            font-size: 25px;
+        }
+
+        #apellido {
+            font-size: 25px;
+        }
+
+        #email {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+
+
+        #formulario1 {
+            width: 410px;
+            height: 300px;
+            font-size: 20px;
+        }
+
+
+   
+
+    }
+
+
+
+    .botonContacto {
+        font-size: 25px;
+        margin: 10PX 25PX;
+        width: 120PX;
+    }
+
+}
+
+
+
+.itemsTienda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .tarjetaProducto {
+        margin: 5% 5% 1% 5%;
+    }
+}
+
+
+
+
+
+main {
+
+    .listaRedes {
+        text-align: center;
+    
+        .nombreLogo {
+            font-size: 40px;
+            margin-left: 30px;
+            top: 10px;
+        }
+    
+        .tituloLista {
+            margin-top: 20px;
+        }
+    
+        .logoRedes {
+            width: 5%;
+            width: 80px;
+        }
+    
+    }
+    
+    .mapa {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        text-align: center;
+
+        #mapaTamaño {
+            width: 600px;
+            height: 450px;
+            
+                    }
+    
+
+
+    }
+
+
+
+}
+
+
+
+
+
+main {
+
+    .terminos {
+        font-size: 50px;
+        text-decoration: underline;
+    
+    
+    }
+
+
+    .titulos {
+        margin-top: 20px;
+        font-size: 25px;
+    }
+
+
+    .politicaDePrivacidad {
+        font-size: 25px;
+        margin: 10% 10%;
+        margin-right: 20%;
+    }
+
+    .terminosCondiciones {
+        font-size: 25px;
+        margin: 10% 10%;
+        margin-right: 20%;
+    }
+
+
+    h2 {
+        font-size: 100px;
+    }
+
+}
+
+
+
+
+
+
+
+
